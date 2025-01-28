@@ -369,7 +369,7 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="/src/images/brighten1.jpg"
+                src="/src/images/brighten.jpg"
                 alt="Volunteers working"
                 className="rounded-lg shadow-lg w-full h-[400px] object-cover"
               />
